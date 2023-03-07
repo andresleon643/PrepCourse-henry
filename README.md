@@ -1,2 +1,2 @@
 # PrepCourse-henry
-REPOSITORIO DE PRUEBA DE HENRY CURSO
+Este proyecto es una prueba y clonarlo
