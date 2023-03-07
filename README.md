@@ -1,2 +1,2 @@
 # PrepCourse-henry
-Este proyecto es una prueba y clonarlo
+Este proyecto es una prueba
